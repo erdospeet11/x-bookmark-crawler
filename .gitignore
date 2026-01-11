@@ -1,0 +1,4 @@
+chrome_profile
+frontend/node_modules/*
+scraper/node_modules/*
+bookmarks_clean.json
